@@ -1,8 +1,8 @@
-# QEEK.ai — Repo-Aware Dev Tickets (Alpha)
+# QEEK.ai - Repo-Aware Dev Tickets (Alpha)
 
 QEEK is an experimental developer tool exploring a simple idea:
 
-**Persistent project understanding should live with the repository — not inside AI chat sessions.**
+**Persistent project understanding should live with the repository - not inside AI chat sessions.**
 
 ---
 
@@ -58,7 +58,7 @@ This repository supports a **limited alpha**.
 
 - Stage: Early, experimental
 - Access: 1 month of free alpha access
-- Privacy: Fully private — no code or repository data is uploaded or retained
+- Privacy: Fully private - no code or repository data is uploaded or retained
 - Audience: Developers and teams working on real, non-trivial codebases
 - Expectation: Willingness to provide feedback
 
